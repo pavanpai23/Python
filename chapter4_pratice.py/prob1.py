@@ -1,0 +1,17 @@
+fruits=[]
+f1=input("enter 7 fruit name : ")
+f2=input("enter 7 fruit name : ")
+f3=input("enter 7 fruit name : ")
+f4=input("enter 7 fruit name : ")
+f5=input("enter 7 fruit name : ")
+f6=input("enter 7 fruit name : ")
+f7=input("enter 7 fruit name : ")
+
+fruits.append(f1)
+fruits.append(f2)
+fruits.append(f3)
+fruits.append(f4)
+fruits.append(f5)
+fruits.append(f6)
+fruits.append(f7)
+print(fruits)
